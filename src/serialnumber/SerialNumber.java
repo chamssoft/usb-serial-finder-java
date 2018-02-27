@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author RANDA
+ * @author Chamsoft
  */
 public class SerialNumber {
 
